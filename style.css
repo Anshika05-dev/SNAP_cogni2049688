@@ -45,13 +45,14 @@ body {
 }
 
 #image{
-  width: 130px;
+  width: 250px;
   height: 150px;
   margin-top: 810px;
   /* flex: end; */
   position: fixed;
 }
 .Navbar {
+  font-family:'Times New Roman', Times, serif ;
   z-index: 1000;
   display: flex;
   flex-direction: row;
